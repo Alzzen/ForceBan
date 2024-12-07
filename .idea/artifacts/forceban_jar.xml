@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="forceban:jar">
+    <output-path>$PROJECT_DIR$/../../Noborrar/plugins</output-path>
+    <root id="archive" name="forceban.jar">
+      <element id="module-output" name="forceban" />
+    </root>
+  </artifact>
+</component>

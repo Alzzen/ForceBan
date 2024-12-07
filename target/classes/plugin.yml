@@ -1,0 +1,10 @@
+name: ForceBan
+version: 1.0
+main: me.soplado.forceBan.ForceBan
+commands:
+  unbanall:
+    description: Desbanea a todos los jugadores.
+    usage: /unbanall
+  banmenu:
+    description: menu de los jugadores baneados.
+    usage: /banmenu

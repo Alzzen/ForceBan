@@ -1,0 +1,10 @@
+name: ForceBan
+version: 1.0
+main: me.soplado.forceBan.ForceBan
+commands:
+  unbanall:
+    description: Desbanea a todos los jugadores y da una lista de todos ellos en el chat.
+    usage: /unbanall
+  banmenu:
+      description: Abre el menú de jugadores baneados con sus cabezas y nombres.
+      usage: /banmenu
